@@ -9,6 +9,7 @@ drop table if exists certificate cascade;
 drop table if exists banking_detail cascade;
 drop table if exists people_relationship cascade;
 
+
 -- institution
 -- certificate
 -- contact (add to user, inst)
